@@ -1,0 +1,2 @@
+Cloudy
+Simple Zsh theme
