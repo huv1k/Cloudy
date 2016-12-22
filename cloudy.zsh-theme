@@ -1,5 +1,5 @@
 local resetColor="%{$reset_color%}"
-local cloud="%{$fg_bold[blue]%}☁︎$resetColor"
+local cloud="%{$fg_bold[blue]%}☁$resetColor"
 local dir="%{$fg_bold[red]%}%c$resetColor$resetColor"
 
 PROMPT='$cloud $dir $(git_prompt_info)'
